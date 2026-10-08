@@ -3,7 +3,7 @@
 
 A simple, fast to-do app built with **Next.js** and **React**. Add tasks, tick them off, filter by status, and your list is saved in the browser, so it's still there when you come back.
 
-**Live demo:** http://localhost:3000/task-tracker
+**Live demo:**https://ahalya-senapathi.github.io/task-tracker-next.js/
 
 ## Features
 
