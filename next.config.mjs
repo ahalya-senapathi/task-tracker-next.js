@@ -1,7 +1,8 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
   output: 'export',
-  basePath: '/task-tracker',
+  basePath: process.env.NODE_ENV === 'production' ? '/task-tracker-next.js' : '',
   images: { unoptimized: true },
 }
+
 export default nextConfig
